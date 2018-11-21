@@ -52,7 +52,7 @@ $month = $now->month(); // текущий месяц
 ```php
 $day = $now->day(); // день в году, от 1 до 356
 $dayOfMonth = $now->dayOfMonth(); // день в месяце, от 1 до 31
-$dayOfWeek = $now->dayOfWeak(); // день недели, от 1 до 7, 1 - воскресенье, 7 - суббота.
+$dayOfWeek = $now->dayOfWeek(); // день недели, от 1 до 7, 1 - воскресенье, 7 - суббота.
 ```
 
 ---
